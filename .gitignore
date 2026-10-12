@@ -1,0 +1,9 @@
+export/
+.DS_Store
+.studio/
+node_modules
+.git.studio-backup
+dist/
+output/
+.env
+.playwright-cli/
